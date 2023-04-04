@@ -1,0 +1,14 @@
+D:\VS2022\Solution1\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\VS2022\Solution1\WeatherApp\bin\Debug\WeatherApp.exe
+D:\VS2022\Solution1\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\VS2022\Solution1\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\VS2022\Solution1\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.exe
+D:\VS2022\Solution1\WeatherApp\obj\Debug\WeatherApp.pdb
